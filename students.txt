@@ -1,0 +1,5 @@
+1, Luďa, Vychodil, 1972-08-15, Tech&Hum, [2, 1]
+2, Hana, Svozil, 1973-10-16, Humanitarian, [3]
+3, Luci, Vychodil, 1973-09-14, Technical, [1]
+4, Naty, Vychodil, 1973-09-14, Technical, [4]
+5, Jirka, Vychodil, 1973-09-14, Humanitarian, [5]
